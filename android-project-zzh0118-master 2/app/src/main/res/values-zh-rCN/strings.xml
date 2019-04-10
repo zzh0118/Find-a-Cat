@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">找个猫</string>
+    <string name="cat_fact_text"> 猫有九条命</string>
+    <string name="find_a_cat_text"> 找个猫</string>
+    <string name="favorite_cat_text">我喜欢的猫</string>
+    <string name="back_button_text">退后</string>
+    <string name="nearby_cat_text">附近的猫</string>
+    <string name="cat_name_string">姓名: %s</string>
+    <string name="cat_gender_string">性别: %s</string>
+    <string name="cat_breed_string">品种: %s</string>
+    <string name="cat_zipcode_string">邮政编码: %s</string>
+    <string name="cat_description_string">简介:\n %s</string>
+    <string name="myFavoriteCat_title">我最喜欢的猫</string>
+    <string name="share_title">分享一个猫</string>
+    <string name="addFavorite_string">添加到喜欢 </string>
+    <string name="addFavorite_success_toast">添加成功 </string>
+    <string name="addFavorite_failed_toast"> 已经添加 </string>
+    <string name="deleteFavorite_success_toast">删除成功 </string>
+    <string name="deleteFavorite_failed_toast">不在喜欢列表里 </string>
+    <string name="unfavorite_button_textView"> 不再喜欢 </string>
+    <string name="email_message"> 我对你的猫有意思 %s </string>>
+    <string name="share_message">看这猫 %s! 邮箱是 %s 得到更多信息 照片网址是 URL: %s” </string>
+    <string name="email_title">邮件</string>
+    <string name="permissions_granted">位置权限获取成功</string>
+    <string name="permissions_denied">位置权限获取失败</string>
+    <string name="location_not_found">没获取位置</string>
+    <string name="no_location_permission">没位置权限</string>
+    <string name="zipcode_message">请输入邮政编码</string>
+    <string name="zipcode_hint">请输入邮政编码</string>
+    <string name="dialogZipcodeEnterButtonText">输入</string>
+    <string name="dialogZipcodeCancelButtonText">取消</string>
+    <string name="wrongZipcodeToast">请输入5位邮政编码</string>
+    <string name="zipcode_title">邮政编码</string>
+    <string name="backButton_text">后退</string>
+</resources>

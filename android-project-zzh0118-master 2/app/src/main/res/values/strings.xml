@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Find a Cat</string>
+    <string name="cat_fact_text"> Cats have 9 lives</string>
+    <string name="find_a_cat_text"> Find a Cat</string>
+    <string name="favorite_cat_text">Favorite Cat</string>
+    <string name="back_button_text">Back</string>
+    <string name="nearby_cat_text">Nearby Cat</string>
+    <string name="cat_name_string">Name: %s</string>
+    <string name="cat_gender_string">Gender: %s</string>
+    <string name="cat_breed_string">Breed: %s</string>
+    <string name="cat_zipcode_string">zipcode: %s</string>
+    <string name="cat_description_string">Cat descriptioin:\n %s</string>
+    <string name="myFavoriteCat_title">my favorite cat</string>
+    <string name="share_title">share a cat</string>
+    <string name="addFavorite_string">add to favorite </string>
+    <string name="addFavorite_success_toast">add to favorite success </string>
+    <string name="addFavorite_failed_toast"> already existed in favorite list </string>
+    <string name="deleteFavorite_success_toast">delete favorite success </string>
+    <string name="deleteFavorite_failed_toast">not in favorite list </string>
+    <string name="unfavorite_button_textView"> unfavorite </string>
+    <string name="email_message"> I’m interested in your cat %s </string>>
+    <string name="share_message">Check out this cat named %s! Email is %s for more info. Photo URL: %s” </string>
+    <string name="email_title">email</string>
+    <string name="permissions_granted">Location permission approved</string>
+    <string name="permissions_denied">pet will not be nearby current location</string>
+    <string name="location_not_found">Location couldn\'t be found</string>
+    <string name="no_location_permission">No location permission</string>
+    <string name="zipcode_message">please enter zipcode</string>
+    <string name="zipcode_hint">please enter zipcode</string>
+    <string name="dialogZipcodeEnterButtonText">enter</string>
+    <string name="dialogZipcodeCancelButtonText">cancel</string>
+    <string name="wrongZipcodeToast">please enter 5 digit zipcode</string>
+    <string name="zipcode_title">zipcode</string>
+    <string name="backButton_text">back</string>
+</resources>
